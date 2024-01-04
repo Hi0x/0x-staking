@@ -24,6 +24,15 @@ export function Navbar() {
           </Link>
 
           <div className={styles.navMiddle}>
+            <Link href="/stake" className={styles.link}>
+              Stake
+            </Link>
+            <Link href="/Withdraw" className={styles.link}>
+              Withdraw
+            </Link>
+            <Link href="/claim" className={styles.link}>
+             Claim
+            </Link>
             <Link href="https://0xns.pro" className={styles.link}>
               Mint
             </Link>
