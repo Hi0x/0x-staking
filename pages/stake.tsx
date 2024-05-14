@@ -135,6 +135,7 @@ const Stake: NextPage = () => {
       <br />
       <br />
       <br />
+      <br />
       <br />    
       <br />
       <br />
