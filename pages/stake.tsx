@@ -115,6 +115,12 @@ const Stake: NextPage = () => {
           </div>
         </>
       )}
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <h4>0xns ©2024</h4>
     </div>
     
   );
