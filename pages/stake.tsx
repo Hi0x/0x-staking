@@ -115,7 +115,27 @@ const Stake: NextPage = () => {
           </div>
         </>
       )}
+     <br />
       <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />    
       <br />
       <br />
       <br />
