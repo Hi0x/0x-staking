@@ -36,12 +36,10 @@ export function Navbar() {
             <Link href="https://0xns.pro" className={styles.link}>
               Mint
             </Link>
-            <Link href="https://stake.hi0x.net" className={styles.link}>
+            <Link href="https://hstake.0xns.pro" className={styles.link}>
               H stake
             </Link>
-            <Link href="https://market.0xns.pro" className={styles.link}>
-              Market
-            </Link>
+            
           </div>
         </div>
 
